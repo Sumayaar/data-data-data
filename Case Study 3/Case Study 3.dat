@@ -1,7 +1,0 @@
-/*********************************************
- * OPL 22.1.1.0 Data
- * Author: Dell
- * Creation Date: Nov 14, 2023 at 12:07:07 PM
- *********************************************/
-SheetConnection Sheet("C:\\Users\\abdul rahaman\\Downloads\\Case Study 3\\6 data points.xlsx");
-L from SheetRead (Sheet,"location");
